@@ -16,7 +16,7 @@ public class DiceComparer {
 			for(int i=1; i < totalNumbers; i++) {
 				if(rolls[i] > clargest) {
 				clargest = rolls[i];
-				}  //github insert the second
+				}  //github insert the third
 			}
 		inOrder[j] = clargest;
 		}
